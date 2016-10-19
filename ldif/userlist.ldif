@@ -1,0 +1,8 @@
+dn: cn=testuser,ou=users,dc=example,dc=com
+cn: testuser
+givenName: Test
+sn: User
+objectClass: inetOrgPerson
+userPassword: test
+uid: testuser
+mail: test@example.com
